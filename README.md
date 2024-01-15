@@ -33,6 +33,7 @@ a) How many olympic games have been held?
 
 
 b) List down all Olympic games held so far.
+
 ![List of Games](https://github.com/C-Mehra/Olympics-History/assets/151509146/8a619162-3542-4f33-8b1f-9dbfc7d5e80e)
 
 c) Mention the total no of nations who participated in each olympics game?
