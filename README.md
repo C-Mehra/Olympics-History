@@ -31,6 +31,7 @@ a) How many olympic games have been held?
 
 ![Winter Olympics](https://github.com/C-Mehra/Olympics-History/assets/151509146/8cd58c05-8d6c-43e8-8320-f6fbf2d9919a)
 
+
 b) List down all Olympic games held so far.
 ![List of Games](https://github.com/C-Mehra/Olympics-History/assets/151509146/8a619162-3542-4f33-8b1f-9dbfc7d5e80e)
 
